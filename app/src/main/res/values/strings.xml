@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">শিশুদের ইসলাম শিক্ষা</string>
+    <string name="app_subtitle">মজার গেম ও অভিযানে কোরআন ও আরবি শেখা</string>
+    <string name="online_mode">অনলাইন মোড</string>
+    <string name="offline_mode">অফলাইন মোড (ইন্টারনেট ছাড়াই চলছে)</string>
+    <string name="offline_ready_badge">১০০% অফলাইন প্রস্তুত</string>
+    <string name="continue_adventure">অভিযান চালিয়ে যাও</string>
+    <string name="nav_map">অভিযান ম্যাপ</string>
+    <string name="nav_letters">জাদুর হরফ</string>
+    <string name="nav_games">মজার গেম</string>
+    <string name="nav_rewards">পুরস্কার ও অগ্রগতি</string>
+</resources>
